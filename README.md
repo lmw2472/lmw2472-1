@@ -1,2 +1,6 @@
-# lmw2472-1
-첫번째
+#include<stido.h>
+int main(void)
+{
+ printf("Hello World!");
+ return 0;
+}
